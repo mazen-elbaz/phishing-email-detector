@@ -1,5 +1,5 @@
 # Phishing Email Detection — Hybrid ML + Security Pipeline
-
+![thumbnail](Thumbnail.png)
 A phishing email classifier built on engineered security/structural features, with SHAP explainability and a live demo. Built as a dual-purpose portfolio project spanning **cybersecurity** (feature engineering mimics manual SOC analyst triage) and **machine learning** (proper model comparison, leakage validation, explainability).
 
 ## Results
