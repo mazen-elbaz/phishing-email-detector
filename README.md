@@ -56,6 +56,9 @@ pip install -r requirements.txt
 jupyter notebook phishing_detection.ipynb   # full pipeline
 streamlit run app.py                         # live demo
 ```
+## Live Demo
+
+🔗 https://phishing-emaildetector.streamlit.app/
 
 ## Known Limitations (Read Before Asking "Is This Production-Ready?")
 
